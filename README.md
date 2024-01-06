@@ -1,1 +1,1 @@
-# Everyday-Quote
+# Daily-Quote
